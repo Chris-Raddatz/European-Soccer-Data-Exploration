@@ -1,5 +1,7 @@
 # SQL-Soccer-Project
 
+[Explore the dashboard](https://chris-raddatz.github.io/SQL-Tableau-Soccer-Project/)
+
 I wanted to create a project utilizing SQL and Tableau. As an avid fan of European soccer I decided performing analysis on the subject would be relevant
 to not only my personal interests but also provide more experience working with these analytical tools. 
 
