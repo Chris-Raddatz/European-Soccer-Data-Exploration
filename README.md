@@ -1,6 +1,6 @@
 # SQL-Soccer-Project
 
-[Explore the dashboard](https://chris-raddatz.github.io/SQL-Tableau-Soccer-Project/)
+[Explore the dashboard]([https://chris-raddatz.github.io/SQL-Tableau-Soccer-Project/](https://public.tableau.com/app/profile/chris.raddatz/viz/AnalyzingEuropeanProfessionalSoccerPlayersLeagues/SummaryDashboard))
 
 I wanted to create a project utilizing SQL and Tableau. As an avid fan of European soccer I decided performing analysis on the subject would be relevant
 to not only my personal interests but also provide more experience working with these analytical tools. 
